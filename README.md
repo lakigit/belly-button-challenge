@@ -23,3 +23,6 @@ Create a bubble chart that displays each sample.
 
 Link for Dashboard:\
 (file:///C:/Users/Jay.Somiuru/Boot%20Camp_Lakna/module-challenges/week14%20Interactive%20visualization/BellyButton/belly-button-challenge/Starter_Code/index.html)
+
+# Code File
+- [`Java Script`](https://github.com/lakigit/belly-button-challenge/blob/main/Starter_Code/static/js/app.js)
