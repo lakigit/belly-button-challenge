@@ -1,5 +1,6 @@
 # belly-button-challenge
-Module 14 Challenge
+Module 14 Challenge\
+![image](https://github.com/lakigit/belly-button-challenge/assets/138610916/b9fcf68e-f4d2-456f-8493-0b058b53d850)
 
 # Background of the project
 In this project, build an interactive dashboard to explore the[`Belly Button Biodiversity dataset`](https://robdunnlab.com/projects/belly-button-biodiversity/), which catalogues the microbes that colonise human navels. This dashboard contains three visualizations, Demographic info, a bar chart and a bubble chart.  
