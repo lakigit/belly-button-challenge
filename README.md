@@ -27,3 +27,5 @@ Link for Dashboard:\
 
 # Code File
 - [`Java Script`](https://github.com/lakigit/belly-button-challenge/blob/main/Starter_Code/static/js/app.js)
+# GitHub Page
+- [`Github page`](https://lakigit.github.io/belly-button-challenge/)
